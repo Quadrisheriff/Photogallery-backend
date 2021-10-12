@@ -20,7 +20,8 @@ CLOUDINARY_NAME =
 CLOUDINARY_KEY = 
 CLOUDINARY_SECRET =
 ```
-!!!Note - CLOUDINARY_NAME is your Cloudinary cloud name, CLOUDINARY_KEY is your Cloudinary API KEY, and CLOUDINARY_SECRET is your Cloudinary API SECRET. You can retrieve these details in the account details section of the Cloudinary dashboard. 
+  !!! Note - CLOUDINARY_NAME is your Cloudinary cloud name, CLOUDINARY_KEY is your Cloudinary API KEY, and CLOUDINARY_SECRET is your Cloudinary API SECRET. You can  retrieve these details in the account details section of the Cloudinary dashboard.
+  
 5. Start the backend server.
 ```
 yarn develop
